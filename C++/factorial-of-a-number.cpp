@@ -1,5 +1,6 @@
 // Problem Name: Factorial of a Number
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/find-factorial-of-a-number_1381079
 
 #include <iostream>
 using namespace std;
