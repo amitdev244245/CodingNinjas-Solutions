@@ -1,5 +1,6 @@
 // Problem Name: Find Character Case
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/find-character-case_58513
 
 #include <iostream>
 using namespace std;
