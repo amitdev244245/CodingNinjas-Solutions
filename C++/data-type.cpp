@@ -1,5 +1,6 @@
 // Problem Name: Data Type
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/data-type_8357232
 
 // #include <iostream>
 // using namespace std;
