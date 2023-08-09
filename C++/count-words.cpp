@@ -1,6 +1,6 @@
 // Problem Name: Count Words
 // Problem Level: Easy
-// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118818/offering/1381763?leftPanelTab=0
+// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118818/offering/1381763
 
 #include <bits/stdc++.h>
 #include <iostream>
