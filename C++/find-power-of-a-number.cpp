@@ -1,5 +1,6 @@
 // Problem Name: Find power of a number
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/find-the-power-of-a-number_1381078
 
 #include <bits/stdc++.h>
 #include <iostream>
