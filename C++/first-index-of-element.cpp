@@ -1,5 +1,6 @@
 // Problem Name: First index of element
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/first-index-of-element_1381276
 
 #include <iostream>
 using namespace std;
