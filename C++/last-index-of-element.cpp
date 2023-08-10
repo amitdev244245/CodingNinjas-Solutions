@@ -1,5 +1,6 @@
 // Problem Name: Last index of element
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118787/offering/1381277
 
 #include <bits/stdc++.h>
 #include <iostream>
