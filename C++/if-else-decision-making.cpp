@@ -1,5 +1,6 @@
 // Problem Name: if-else (Decision Making)
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235
 
 /*
     Time complexity: O(1)
