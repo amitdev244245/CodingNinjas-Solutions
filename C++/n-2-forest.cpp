@@ -1,5 +1,6 @@
 // Problem Name: N/2-Forest
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/n-2-forest_6570178
 
 void nForest(int n)
 {
