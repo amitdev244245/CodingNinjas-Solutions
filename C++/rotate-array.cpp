@@ -1,5 +1,6 @@
 // Problem Name: Rotate array
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118787/offering/1381279
 
 #include <iostream>
 using namespace std;
