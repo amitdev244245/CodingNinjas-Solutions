@@ -1,5 +1,6 @@
 // Problem Name: Star Pattern
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/star-pattern_893204
 
 #include <bits/stdc++.h>
 
