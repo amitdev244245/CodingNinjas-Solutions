@@ -1,5 +1,6 @@
 // Problem Name: Set Bits
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118519/offering/1376725
 
 #include <bits/stdc++.h>
 #include <iostream>
