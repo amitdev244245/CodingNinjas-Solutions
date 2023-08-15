@@ -1,5 +1,6 @@
 // Problem Name: Total Prime
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/total-prime_1164176
 
 #include <bits/stdc++.h>
 #include <iostream>
