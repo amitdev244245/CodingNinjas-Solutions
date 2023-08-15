@@ -1,5 +1,6 @@
 // Problem Name: Triangle
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/triangle_6573690
 
 void triangle(int n)
 {
