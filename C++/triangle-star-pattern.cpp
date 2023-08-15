@@ -1,5 +1,6 @@
 // Problem Name: Triangle Star Pattern
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/triangle-star-pattern_626546
 
 #include <iostream>
 using namespace std;
