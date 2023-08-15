@@ -1,5 +1,6 @@
 // Problem Name: Switch Case statement
 // Problem Level: Easy
+// Problem Link: https://www.codingninjas.com/studio/problems/switch-case-statement_8357244
 
 /*
     Time complexity: O(1)
