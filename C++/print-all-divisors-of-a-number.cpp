@@ -1,6 +1,7 @@
 // Problem Name: Print all Divisors of a number
 // Problem Level: Easy
-// Problem Link: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118519/offering/1376722
+// Problem Link 1: https://www.codingninjas.com/studio/problems/print-all-divisors-of-a-number_1164188
+// Problem Link 2: https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118519/offering/1376722
 
 // #include <iostream>
 // using namespace std;
